@@ -2,7 +2,7 @@
 
 This project was done by (all contributed the same): Brayam Castillo, Filipe Lauar, Gabriel Baker and Vinícius Imaizumi
 
-More details in the file GAN_report.pdf. Implementation in GAN_image_manipulation.ipynb.
+More details in the file GAN_report.pdf. Implementation in GAN_image_manipulation.ipynb. You should run the [code on google colab](https://colab.research.google.com/drive/1qVoqCA2i62PdcO2Pdfiv944mxHVN8zxt)
 
 Project to use [StyleGAN](https://github.com/NVlabs/stylegan), [InterfaceGAN](https://github.com/genforce/interfacegan), [IDInvert](https://github.com/genforce/idinvert_pytorch) and [FaceAttributeFAN](https://github.com/TencentYoutuResearch/FaceAttribute-FAN) to manipulate images in StyleGAN's latent space.
 
