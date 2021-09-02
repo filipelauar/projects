@@ -41,7 +41,7 @@ You can run them on google colab following these link:
 - [Implementation and application of forward selection.](https://colab.research.google.com/drive/1eq6q6a1FnmtUjgWc8sEu4AKJF-fOgFsq#scrollTo=eaH9Erj_6aee)
 
 
-The explanation of the network achitecture and other applications are in my podcast:
+The explanation of the problemns, the methods and some applications are in my podcast:
 
 - [Dimensionality Reduction and Clustering. Understanding PCA, Kmeans and Autoencoders.](https://open.spotify.com/episode/15hWZIowFtXHYNhK96QSO9?si=b40680b8de8d4cc2) (In english)
 - [Redução de Dimensionalidade e Clustering. Explicando PCA, Kmeans e Autoencoders.](https://open.spotify.com/episode/2D4CGC5PoMbx13rlXjzOlR?si=16c76410bd6549cd) (Em portugues)
