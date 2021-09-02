@@ -31,7 +31,7 @@ The explanation of the network achitecture and other applications are in my podc
 
 # Dimensionality Reduction and Clustering
 
-In [this folder](https://github.com/filipelauar/projects/tree/main/dimensionality%20reduction%20and%20clustering) will find 4 notebooks regarding the implementation and application of some dimensionality redcution and clustering methods.
+In [this folder](https://github.com/filipelauar/projects/tree/main/dimensionality%20reduction%20and%20clustering) you will find 4 notebooks regarding the implementation and application of some dimensionality redcution and clustering methods.
 
 You can run them on google colab following these link:
 
