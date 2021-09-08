@@ -1,5 +1,5 @@
 # Projects
-Here you will find codes from projects that I participated. These projects and much more are explained in my podcast:
+Here you will find codes from projects that I participated. These projects and much more are explained in my podcast. The podcast is avaible in all the podcast platforms and I register it in English and in Portuguese, below you will find the link to spotify:
 
 - [Life with AI](https://open.spotify.com/show/38kCKFKEAm9romJuaXVq4w?si=24CIk4n3QpeYTMoBKWFQjw&dl_branch=1) (In english)
 - [Vida com IA](https://open.spotify.com/show/3yeqOp2pZKdqX5Qa3jY6Jz?si=8ShXHzC0Slm7FyeskgMZng&dl_branch=1) (Em portugues)
@@ -45,3 +45,12 @@ The explanation of the problemns, the methods and some applications are in my po
 
 - [Dimensionality Reduction and Clustering. Understanding PCA, Kmeans and Autoencoders.](https://open.spotify.com/episode/15hWZIowFtXHYNhK96QSO9?si=b40680b8de8d4cc2) (In english)
 - [Redução de Dimensionalidade e Clustering. Explicando PCA, Kmeans e Autoencoders.](https://open.spotify.com/episode/2D4CGC5PoMbx13rlXjzOlR?si=16c76410bd6549cd) (Em portugues)
+
+# Kaggle challange
+
+In [this colab notebook](https://colab.research.google.com/drive/15rFC3P98TUByyKbRmASY4SW_0G65aRk-) you will find my solution to win the image kaggle challange 2020/2021 at Telecom Paris.
+
+To better understand the challange and the solution you can listen this episode in my podcast:
+
+- [How did I win a kaggle competition.](https://open.spotify.com/episode/0yjuw92jBkZ72lHsdeXiQj?si=624d2ad4555a43bc) (In english)
+- [Como eu ganhei um competição no Kaggle.](https://open.spotify.com/episode/5v5mpIYLoFy51lLOIu8ogA?si=46135fa5059d4857) (Em portugues)
