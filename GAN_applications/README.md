@@ -1,15 +1,10 @@
-More details in the file GAN_report.pdf. Implementation in GAN_image_manipulation.ipynb.
+# GAN applications
 
-Project to use [StyleGAN](https://github.com/NVlabs/stylegan), [InterfaceGAN](https://github.com/genforce/interfacegan), [IDInvert](https://github.com/genforce/idinvert_pytorch) and [FaceAttributeFAN](https://github.com/TencentYoutuResearch/FaceAttribute-FAN) to manipulate images in StyleGAN's latent space.
+In this folder you will find 2 notebooks regarding the applications of GANs. One notebook was writen in portuguese and coded using pytorch to generate images of the MNIST. The other was writen in english and coded using tensorflow and keras to generate images of the MNIST and the CIFAR. I will keep including notebooks in this folder continuously. You should run these notebooks in google colab.
 
-What was done:
+For more Deep Learning notebooks of CNN/GAN applications and much more in Portuguese I recommend [this repository](https://github.com/filipelauar/praticas) from UFMG professors.
 
-- Combined the style of two real persons with StyleGAN Changed different facial attributes using InterfaceGAN.
+Examples of many many applications in the real world using GANs can be founded in the following episodes of my podcast:
 
-- Used IDInvert from Genforce (https://github.com/genforce/idinvert_pytorch) to map real images into the StyleGAN latent space W. 
-
-- Interpolated the code from real people in this latent space W, achieving a person with intermediate face characteristics between the two images used.
-
-- Used InterfaceGAN increase or decrease a specific but abstract attribute, such as smile, age and gender.
-
-- Used FaceAttributeFAN to see other features that changed together (ie: entangled features)
+- [Applications of GANs in the real world.](https://open.spotify.com/episode/6dnq2zJwMkyEwCc5FliP4x?si=5203b9c5ec304416) (In english)
+- [Aplicações de GANs no mundo real.](https://open.spotify.com/episode/4V7trWV5bZJT1JnWYYDhyh?si=2769899c918742b5) (Em portugues)
