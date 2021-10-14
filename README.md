@@ -85,5 +85,5 @@ For more Deep Learning notebooks of RNN applications and much more in Portuguese
 
 Examples of many many applications in the real world using RNNs can be founded in the following episodes of my podcast:
 
-- [Applicationf of RNNs in the real world.](https://open.spotify.com/episode/3mcYv5bokLS3YgTnbZCcwH?si=3d6496dc0d0e4fce) (In english)
+- [Applications of RNNs in the real world.](https://open.spotify.com/episode/3mcYv5bokLS3YgTnbZCcwH?si=3d6496dc0d0e4fce) (In english)
 - [Aplicações de RNNs no mundo real.](https://open.spotify.com/episode/2yYu33pWpLL7QjQpteGJvt?si=afdecdd19e734251) (Em portugues)
