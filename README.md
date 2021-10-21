@@ -87,3 +87,9 @@ Examples of many many applications in the real world using RNNs can be founded i
 
 - [Applications of RNNs in the real world.](https://open.spotify.com/episode/3mcYv5bokLS3YgTnbZCcwH?si=3d6496dc0d0e4fce) (In english)
 - [Aplicações de RNNs no mundo real.](https://open.spotify.com/episode/2yYu33pWpLL7QjQpteGJvt?si=afdecdd19e734251) (Em portugues)
+
+Explanation of RNN, GRU and LSTM algorithms:
+
+- [Algorithms for NLP and time series. Understanding RNN, GRU and LSTM.](https://open.spotify.com/episode/2kEuF3yrRB8HKqHiI3vojr?si=3f115ec0fc6b43ab) (In english)
+- [Algoritmos para NLP e time series. Explicando RNN, GRU e LSTM.](https://open.spotify.com/episode/0GLeUHZfStUAUXlXNJTgtG?si=cea821a0ec124d65) (Em portugues)
+
