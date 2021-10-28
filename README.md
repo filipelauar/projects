@@ -99,5 +99,5 @@ In [this colab notebook](https://colab.research.google.com/drive/15rFC3P98TUByyK
 
 To better understand the pros and cons of Binary Neural Networks you can listen this episode in my podcast:
 
-- [Binary Neural Networks with Breno Skuk.](https://open.spotify.com/episode/0yjuw92jBkZ72lHsdeXiQj?si=624d2ad4555a43bc) (In english)
-- [Redes Neurais Binárias com Breno Skuk.](https://open.spotify.com/episode/5v5mpIYLoFy51lLOIu8ogA?si=46135fa5059d4857) (Em portugues)
+- [Binary Neural Networks with Breno Skuk.](https://open.spotify.com/episode/20Hg8tZeDmsDt5oUlW4xt6?si=eda9318edac04586) (In english)
+- [Redes Neurais Binárias com Breno Skuk.](https://open.spotify.com/episode/2vsZSMSDRPnMk70SZCIAgG?si=8276e27bc6234766) (Em portugues)
