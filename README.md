@@ -95,7 +95,7 @@ Explanation of RNN, GRU and LSTM algorithms:
 
 # Binary Neural Networks
 
-In [this colab notebook](https://colab.research.google.com/drive/19w1X9sWT4-B0V-Gn3U4F6KXUJjaSSzcV#scrollTo=TtPolDR4F4sZ) you will find a notebook of a implementation of binary neural networks using tensorflow and larq. You will also find the comparision between the BNN and a normal/full precision neural network.
+In [this colab notebook](https://colab.research.google.com/drive/19w1X9sWT4-B0V-Gn3U4F6KXUJjaSSzcV#scrollTo=TtPolDR4F4sZ) done by [Breno](https://www.linkedin.com/in/breno-baldas-skuk-117213140/) you will find a notebook of a implementation of binary neural networks using tensorflow and larq. You will also find the comparision between the BNN and a normal/full precision neural network.
 
 To better understand the pros and cons of Binary Neural Networks you can listen this episode in my podcast:
 
