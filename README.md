@@ -93,3 +93,11 @@ Explanation of RNN, GRU and LSTM algorithms:
 - [Algorithms for NLP and time series. Understanding RNN, GRU and LSTM.](https://open.spotify.com/episode/2kEuF3yrRB8HKqHiI3vojr?si=3f115ec0fc6b43ab) (In english)
 - [Algoritmos para NLP e time series. Explicando RNN, GRU e LSTM.](https://open.spotify.com/episode/0GLeUHZfStUAUXlXNJTgtG?si=cea821a0ec124d65) (Em portugues)
 
+# Binary Neural Networks
+
+In [this colab notebook](https://colab.research.google.com/drive/15rFC3P98TUByyKbRmASY4SW_0G65aRk-) you will find a notebook of a implementation of binary neural networks using tensorflow and larq. You will also find the comparision between the BNN and a normal/full precision neural network.
+
+To better understand the pros and cons of Binary Neural Networks you can listen this episode in my podcast:
+
+- [Binary Neural Networks with Breno Skuk.](https://open.spotify.com/episode/0yjuw92jBkZ72lHsdeXiQj?si=624d2ad4555a43bc) (In english)
+- [Redes Neurais Binárias com Breno Skuk.](https://open.spotify.com/episode/5v5mpIYLoFy51lLOIu8ogA?si=46135fa5059d4857) (Em portugues)
