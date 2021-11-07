@@ -103,7 +103,7 @@ To better understand the pros and cons of Binary Neural Networks you can listen 
 - [Redes Neurais Binárias com Breno Skuk.](https://open.spotify.com/episode/2vsZSMSDRPnMk70SZCIAgG?si=8276e27bc6234766) (Em portugues)
 
 
-# Binary Neural Networks
+# Categorical feature encoding and numerical feature scaling/normalization
 
 In [this colab notebook](https://colab.research.google.com/drive/1nAC6QLnJ23DtjTOd_YVsUZfEORX9fESc?usp=sharing) you will find some techiniques to perform categorical feature encoding (Label Encoder, One Hot Encoder, Target Encoder and Frequency Encoder) and numerical feature scaling/normalization.
 
