@@ -101,3 +101,14 @@ To better understand the pros and cons of Binary Neural Networks you can listen 
 
 - [Binary Neural Networks with Breno Skuk.](https://open.spotify.com/episode/20Hg8tZeDmsDt5oUlW4xt6?si=eda9318edac04586) (In english)
 - [Redes Neurais Binárias com Breno Skuk.](https://open.spotify.com/episode/2vsZSMSDRPnMk70SZCIAgG?si=8276e27bc6234766) (Em portugues)
+
+
+# Binary Neural Networks
+
+In [this colab notebook](https://colab.research.google.com/drive/1nAC6QLnJ23DtjTOd_YVsUZfEORX9fESc?usp=sharing) you will find some techiniques to perform categorical feature encoding (Label Encoder, One Hot Encoder, Target Encoder and Frequency Encoder) and numerical feature scaling/normalization.
+
+To better understand these techiniques, why and how should you use them, you can listen this episode in my podcast:
+
+- [How to fed data into AI algorithms. Understanding categorical feature encoding and scaling/normalization.](https://open.spotify.com/episode/7g850wt09NzDrXOhs4tRJM?si=4a07da6f314e4668) (In english)
+- [Como alimentar algorithmos de IA com dados tabulares. Explicando categorical feature encoding e normalização.](https://open.spotify.com/episode/1yAxibZFX7tjuUYYkm1tMX?si=3f8f987dd5d54554) (Em portugues)
+
