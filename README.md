@@ -112,3 +112,11 @@ To better understand these techiniques, why and how should you use them, you can
 - [How to fed data into AI algorithms. Understanding categorical feature encoding and scaling/normalization.](https://open.spotify.com/episode/7g850wt09NzDrXOhs4tRJM?si=4a07da6f314e4668) (In english)
 - [Como alimentar algorithmos de IA com dados tabulares. Explicando categorical feature encoding e normalização.](https://open.spotify.com/episode/1yAxibZFX7tjuUYYkm1tMX?si=3f8f987dd5d54554) (Em portugues)
 
+# Neural networks, from zero to hero. Tips for training neural networks, self-supervised learning and data augmnetation
+
+In [this repository](https://github.com/maponti/trainingdeepnetworks) you will find a tutorial about training of neural networks with many notebooks from the beginning untill advanced techniques like self-supervised learning and contrastive learning.
+
+If you want to better understand it all, you can listen to this episode in my podcast:
+
+- [Tips for training neural networks, data augmentation and self-supervised learning with Fernando Santos.](https://open.spotify.com/episode/00mgV6FnzG3g5PpZcXZxkC?si=23aed2c165314974) (In english)
+- [Dicas para treinar redes neurais, data augmnetation e self-supervised learning com Fernando Santos.](https://open.spotify.com/episode/4GFWCcrQaUE0n1zVNmcxXx?si=36f6e71b8a2841a0) (Em portugues)
