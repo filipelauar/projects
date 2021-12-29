@@ -120,3 +120,14 @@ If you want to better understand it all, you can listen to this episode in my po
 
 - [Tips for training neural networks, data augmentation and self-supervised learning with Fernando Santos.](https://open.spotify.com/episode/00mgV6FnzG3g5PpZcXZxkC?si=23aed2c165314974) (In english)
 - [Dicas para treinar redes neurais, data augmnetation e self-supervised learning com Fernando Santos.](https://open.spotify.com/episode/4GFWCcrQaUE0n1zVNmcxXx?si=36f6e71b8a2841a0) (Em portugues)
+
+# Categorical feature encoding and numerical feature scaling/normalization
+
+In [this colab notebook](https://colab.research.google.com/drive/1Wdb8XqIGjnnoEq2Hopy-jruImBsP-Aw4?usp=sharing) you will find a model to perform domain-adaptation/semi-supervised learning on the MNIST dataset.
+
+To better understand these techiniques and also the actual state of the art, you can listen this episode in my podcast:
+
+- [How to fed data into AI algorithms. Understanding categorical feature encoding and scaling/normalization.](https://open.spotify.com/episode/7g850wt09NzDrXOhs4tRJM?si=4a07da6f314e4668) (In english)
+- [Como treinar um carro autônomo na Alemanha e fazer ele dirigir no Brasil? Explicando domain-adaptation e semi-supervised learning.](https://open.spotify.com/episode/1yAxibZFX7tjuUYYkm1tMX?si=3f8f987dd5d54554) (Em portugues)
+
+
