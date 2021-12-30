@@ -127,7 +127,7 @@ In [this colab notebook](https://colab.research.google.com/drive/1Wdb8XqIGjnnoEq
 
 To better understand these techiniques and also the actual state of the art, you can listen this episode in my podcast:
 
-- [How to make autonomous vehicles drive in different places? Understanding domain adaptation and semi-supervised learning.](https://open.spotify.com/episode/7g850wt09NzDrXOhs4tRJM?si=4a07da6f314e4668) (In english)
-- [Como treinar um carro autônomo na Alemanha e fazer ele dirigir no Brasil? Explicando domain adaptation e semi-supervised learning.](https://open.spotify.com/episode/1yAxibZFX7tjuUYYkm1tMX?si=3f8f987dd5d54554) (Em portugues)
+- [How to make autonomous vehicles drive in different places? Understanding domain adaptation and semi-supervised learning.](https://open.spotify.com/episode/02OfHhGmBgE1qE7zpzXGFC?si=1340a2735ae541ce) (In english)
+- [Como treinar um carro autônomo na Alemanha e fazer ele dirigir no Brasil? Explicando domain adaptation e semi-supervised learning.](https://open.spotify.com/episode/6GUZjxAH496Yci6lBccYP8?si=efbcde3012ab4f4c) (Em portugues)
 
 
