@@ -130,7 +130,7 @@ To better understand these techiniques and also the actual state of the art, you
 - [How to make autonomous vehicles drive in different places? Understanding domain adaptation and semi-supervised learning.](https://open.spotify.com/episode/02OfHhGmBgE1qE7zpzXGFC?si=1340a2735ae541ce) (In english)
 - [Como treinar um carro autônomo na Alemanha e fazer ele dirigir no Brasil? Explicando domain adaptation e semi-supervised learning.](https://open.spotify.com/episode/6GUZjxAH496Yci6lBccYP8?si=efbcde3012ab4f4c) (Em portugues)
 
-# Domain adaptation and semi-supervised learning
+# Adversarial attacks
 
 In [this colab notebook](https://colab.research.google.com/drive/1zc3VsX0u-wZu7x2gbCgsZzO-J07OOHbc?usp=sharing) you will find some examples of how to fool a neural network using adversarial attacks and also how to understand the prediction of a neural network using saliancy maps.
 
