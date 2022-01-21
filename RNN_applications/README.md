@@ -2,9 +2,9 @@
 
 In this folder you will find some notebooks regarding the applications of RNNs in NLP and time series forecast. Some notebook were writen in portuguese, others in english. Some notebook were coded in pytorch and others in tensorflow. These informations are in the name of the notebook. This folder will be updated as I have new notebooks about the subject. I advise you to run them in google colab.
 
-In [this colab notebook] (https://colab.research.google.com/drive/1hrsAgirFaZQ-z0qui9YXRiDnuUmt5eRX?usp=sharing) you can see the implementation from scratch of the RNN, LSTM and GRU in pytorch and play with a sentence generator algorithm.
+In [this colab notebook](https://colab.research.google.com/drive/1hrsAgirFaZQ-z0qui9YXRiDnuUmt5eRX?usp=sharing) you can see the implementation from scratch of the RNN, LSTM and GRU in pytorch and play with a sentence generator algorithm.
 
-In [this colab notebook] (https://colab.research.google.com/drive/1iw5HgztNr2gaC7H1bmO0M1q9kPNmCtUb?usp=sharing) you will find a code to perform translation from english to french (but you can also perform the opposite by a small change in the code). 
+In [this colab notebook](https://colab.research.google.com/drive/1iw5HgztNr2gaC7H1bmO0M1q9kPNmCtUb?usp=sharing) you will find a code to perform translation from english to french (but you can also perform the opposite by a small change in the code). 
 
 For more Deep Learning notebooks of RNN applications and much more in Portuguese I recommend [this repository](https://github.com/filipelauar/praticas) from UFMG professors.
 
