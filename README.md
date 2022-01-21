@@ -4,7 +4,7 @@ Here you will find codes from projects that I participated. These projects and m
 - [Life with AI](https://open.spotify.com/show/38kCKFKEAm9romJuaXVq4w?si=24CIk4n3QpeYTMoBKWFQjw&dl_branch=1) (In english)
 - [Vida com IA](https://open.spotify.com/show/3yeqOp2pZKdqX5Qa3jY6Jz?si=8ShXHzC0Slm7FyeskgMZng&dl_branch=1) (Em portugues)
 
-You can follow the podcast on [Linkedin](https://www.linkedin.com/company/life-with-ai) and on (Instagram)[https://www.instagram.com/podcast.lifewithai/] to be updated about the episode and also interact with me!
+You can follow the podcast on [Linkedin](https://www.linkedin.com/company/life-with-ai) and on (Instagram)[https://www.instagram.com/podcast.lifewithai] to be updated about the episode and also interact with me!
 
 
 # Manipulating images with StyleGAN
