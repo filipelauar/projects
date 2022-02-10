@@ -1,15 +1,6 @@
-More details in the file GAN_report.pdf. Implementation in GAN_image_manipulation.ipynb.
+In this folder you will find the implementation of many algorithms for Reinforcement Learning. These implementations were part of the RLD course in Sorbonne University. I would like to thank Luc and Dao that implemented most of these algorithms (the RLD monsters). As it was all implemented in the course, in each folder I puted the project text so you guys can reproduce the experiments that we did. There is in the end a report of everything that was done but it's in French (sorry).
 
-Project to use [StyleGAN](https://github.com/NVlabs/stylegan), [InterfaceGAN](https://github.com/genforce/interfacegan), [IDInvert](https://github.com/genforce/idinvert_pytorch) and [FaceAttributeFAN](https://github.com/TencentYoutuResearch/FaceAttribute-FAN) to manipulate images in StyleGAN's latent space.
+To better understand the idea of Reinforcement Learning, these and other algorithms and some application, you should listen to this episode in my podcast:
 
-What was done:
-
-- Combined the style of two real persons with StyleGAN Changed different facial attributes using InterfaceGAN.
-
-- Used IDInvert from Genforce (https://github.com/genforce/idinvert_pytorch) to map real images into the StyleGAN latent space W. 
-
-- Interpolated the code from real people in this latent space W, achieving a person with intermediate face characteristics between the two images used.
-
-- Used InterfaceGAN increase or decrease a specific but abstract attribute, such as smile, age and gender.
-
-- Used FaceAttributeFAN to see other features that changed together (ie: entangled features)
+- [Reiforcement Learning.](https://open.spotify.com/episode/2w088ECqtC0CVuAe9l25A2?si=364f68c4cfc14891) (In english)
+- [Aprendizado por Reforço. Entendendo Reinforcement Learning.](https://open.spotify.com/episode/7a3L8QBSNpt83Mx3Vs2GU4?si=845f72ee82dd4445) (Em portugues)
