@@ -1,0 +1,29 @@
+env: CartPole-v1                                                  # environnement
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 100
+freqTest: 100
+nbTest: 1
+freqVerbose: 100                                                          
+fromFile: null
+nbEpisodes: 2000
+freqOptim: 1  # Optimisation de la politique tous les freqOptim evenements
+
+discount: 0.99
+learning_rate: 0.001
+sample_size: 1000
+lbda: 0.99
+K: 5 # 1 et 5
+KLC: 0.001  
+epsilon: 0.1
+reverse: False # to test True and False
+B: 1 # 0, 1  
+# entropy: 0.2
+
+# KLAdaptatif
+# K = 10, test 0.005, 0.0001, 0.001 => 0.001 bien (oscille quand meme beaucoup)
+# k = 20 test 0.001, 0.01, 0.005 => impossible à stabiliser
+# reverse True/False, B 0/1 sur meilleur model
+
+# Clipped
+# epsilon 0.05, 0.1, 0.01

@@ -1,0 +1,28 @@
+env: LunarLander-v2
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 100
+freqTest: 10000000
+nbTest: 1
+freqVerbose: 10000000
+freqOptim: 1                                                                          # Optimisation de la politique tous les freqOptim evenements
+fromFile: null
+nbEpisodes: 5000 # (1000 semble suffir)
+
+discount: 0.99
+learning_rate: 0.001
+sample_size: 1000
+lbda: 0.99
+K: 10
+KLC: 0.001
+epsilon: 0.3
+reverse: False 
+B: 1 # 0, 1  
+# entropy: 0.005
+
+# KLAdaptatif
+# K = 10, test 0.0001, 0.0005, 0.001 => 0.001 bien (bof car variance forte)
+# reverse True/False sur meilleur model
+
+# Clipped
+# epsilon: 0.1, 0.3 => 0.3

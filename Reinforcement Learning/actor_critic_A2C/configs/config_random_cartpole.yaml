@@ -1,0 +1,17 @@
+env: CartPole-v1                                                  # environnement
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 1000
+freqTest: 10000
+nbTest: 1
+freqVerbose: 10000                                                       
+fromFile: null
+nbEpisodes: 5000
+
+freqOptim: 1  # Optimisation de la politique tous les freqOptim evenements
+discount: 0.99
+learning_rate: 0.001
+sample_size: 1000 # time before train
+lbda: 0.99
+entropy: 0.2 # test with and without entropy
+

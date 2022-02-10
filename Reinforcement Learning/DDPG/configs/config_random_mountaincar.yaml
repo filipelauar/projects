@@ -1,0 +1,22 @@
+env: MountainCarContinuous-v0                                                # environnement
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 100
+freqTest: 100000000000000
+nbTest: 1
+freqVerbose: 100000000000000                                   
+fromFile: null
+nbEpisodes: 3000
+
+sample_size: 1024
+std: 0.25
+capacity: 10000
+p: 0.99
+gamma: 0.999
+theta: 0.05
+critique_learning_rate: 0.0001 # 0.0001
+politique_learning_rate:  0.001 # 0.001
+random_steps: 10000
+nb_update: 1
+freq_opti: 1
+

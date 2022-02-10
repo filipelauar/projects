@@ -1,0 +1,34 @@
+env: gridworld-v0                                                                     # environnement
+map: gridworldPlans/plan10.txt                                                         # carte a charger
+rewards:                                                                              # rewards de l'environnement
+  0: -0.001
+  3: 1
+  4: 1
+  5: -1
+  6: -1
+seed: 5                                                                               # graine aleatoire
+freqSave: 1000                                                                        # frequence de sauvegarde du modèle
+freqTest: 100                                                                          # frequence de test
+nbTest: 10                                                                             # nb de tests à effectuer tous les freqTest trajectoires
+freqVerbose: 10000                                                                       # frequence d'affichage de l'environnement
+
+nbEpisodes: 10000
+maxLengthTest: 500                                                                    # Longueur maxi des trajectoires en Test
+maxLengthTrain: 100                                                                   # Longueur maxi des trajectoires en Train
+
+exploMode: 0                                                                          # Mode d'exploration. 0 = epsilon-greedy (les autres a regarder je sais plus)
+explo: 0.1                                                                           # coefficient d'exploration initial
+decay: 0.99                                                                          # a la fin de chaque trajectoire, le coefficient d'explo est multiplié par ce facteur
+gamma: 0.99                                                                         # Facteur de discount
+learningRate: 0.1                                                                     # Pas d'apprentissage
+eligibility: 0                                                                        # coefficient d'eligibilité (le lambda du Q(lambda))
+eligibilityThreshold: 0                                                               # en dessous de ce niveau de score d'eligibilité on coupe (pour aller plus vite)
+sarsa: false                                                                          # si true = sarsa, sinon qlearning
+nbModelSamples: 0                                                                    # si > 0, dynaQ avec nbModelSamples echantillons issus du modèle apres chaque evenement
+k: 10                                                                              # nombre de sampling par évènement pour dynaQ
+dyna: 0                                                                               # si true = dynaQ, sinon qlearning
+learningRateR: 0.1                                                                   # second learning rate pour dynaQ
+eligibilite: 0                                                                        # si true = utilisation traces d'égilibilités
+lbda: 0.9                                                                         # lambda des traces d'égibilité
+execute: |                                                                              # a executer apres le chargement de l'environnement
+    env.setPlan(config["map"], config["rewards"])

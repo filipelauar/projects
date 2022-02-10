@@ -1,0 +1,21 @@
+env: gridworld-v0                                                                     # environnement
+map: gridworldPlans/plan1.txt                                                         # carte a charger
+rewards:                                                                              # rewards de l'environnement
+  0: -0.001
+  3: 1
+  4: 1
+  5: -1
+  6: -1
+seed: 5                                                                               # graine aleatoire
+featExtractor: !!python/name:__main__.MapFromDumpExtractor2 ''                        # Extracteur de features a partir de l'observation
+freqSave: 1000                                                                        # frequence de sauvegarde du modèle
+freqTest: 10                                                                          # frequence de test
+nbTest: 1                                                                             # nb de tests à effectuer tous les freqTest trajectoires
+freqVerbose: 10                                                                       # frequence d'affichage de l'environnement
+freqOptim: 1                                                                          # Optimisation de la politique tous les freqOptim evenements
+fromFile: null                                                                        # si pas null, chargement du modèle a partir de ce fichier
+nbEpisodes: 1000000                                                                   # nombre d'episodes maximal
+maxLengthTest: 500                                                                    # Longueur maxi des trajectoires en Test
+maxLengthTrain: 100                                                                   # Longueur maxi des trajectoires en Train
+execute: |                                                                            # a executer apres le chargement de l'environnement
+    env.setPlan(config["map"], config["rewards"])

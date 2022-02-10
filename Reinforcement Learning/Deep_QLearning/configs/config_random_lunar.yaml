@@ -1,0 +1,20 @@
+env: LunarLander-v2
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 100
+freqTest: 1000000000000
+nbTest: 1
+freqVerbose: 1000000000000
+freqOptim: 1                                                                          # Optimisation de la politique tous les freqOptim evenements
+fromFile: null
+nbEpisodes: 500
+
+capacity: 1000 # default
+gamma: 0.99 # 0.99 by default
+epsilon: 0.1 # 0.1 by default
+sample_size: 32 # default
+experience_replay: True # True by default, True et False à test
+target_network: False # True by default, True et False à test
+prioritized: True # True by default, True et False à test
+freq_opti: 50 # 50 for lunar lander by default
+learning_rate: 0.001 # default

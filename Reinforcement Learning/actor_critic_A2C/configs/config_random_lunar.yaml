@@ -1,0 +1,16 @@
+env: LunarLander-v2
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 1000
+freqTest: 10000000000
+nbTest: 1
+freqVerbose: 10000000000
+fromFile: null
+nbEpisodes: 7000
+
+freqOptim: 1  # Optimisation de la politique tous les freqOptim evenements
+discount: 0.99
+learning_rate: 0.001
+sample_size: 1000 # time before train
+lbda: 0.99
+entropy: 0.2 # test with and without entropy (0.2)

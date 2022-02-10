@@ -1,0 +1,24 @@
+env: Pendulum-v0                                                # environnement
+seed: 5
+featExtractor: !!python/name:__main__.NothingToDo ''
+freqSave: 100
+freqTest: 10000000000000
+nbTest: 1
+freqVerbose: 10000000000000                                            
+fromFile: null
+nbEpisodes: 6000
+
+sample_size: 1000
+capacity: 1000000
+p: 0.9 # test with and without
+gamma: 0.95
+critique_learning_rate: 0.01 # 0.01
+politique_learning_rate:  0.001 
+nb_update: 10
+random_sampling: -1
+freq_opti: 1000
+adaptatif: False
+learning_rate_alpha: 0.001
+alpha: 0.2
+reward_normalisation: 100
+separate: True
