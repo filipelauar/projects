@@ -4,5 +4,5 @@ In this folder you will find the implementation of many algorithms for Reinforce
 
 To better understand the idea of Reinforcement Learning, these and other algorithms and some application, you should listen to this episode in my podcast:
 
-- [Reiforcement Learning.](https://open.spotify.com/episode/2w088ECqtC0CVuAe9l25A2?si=364f68c4cfc14891) (In english)
+- [Reinforcement Learning.](https://open.spotify.com/episode/2w088ECqtC0CVuAe9l25A2?si=364f68c4cfc14891) (In english)
 - [Aprendizado por Reforço. Entendendo Reinforcement Learning.](https://open.spotify.com/episode/7a3L8QBSNpt83Mx3Vs2GU4?si=845f72ee82dd4445) (Em portugues)
