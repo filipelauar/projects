@@ -155,4 +155,11 @@ To better understand the idea of Reinforcement Learning, these and other algorit
 - [Aprendizado por Reforço. Entendendo Reinforcement Learning.](https://open.spotify.com/episode/7a3L8QBSNpt83Mx3Vs2GU4?si=845f72ee82dd4445) (Em portugues)
 
 
+In [this colab notebook](https://colab.research.google.com/drive/1-1bFyFbHxedNw3CVGHD99VxojNaXgxhX?usp=sharing) you will find an implementation of positional encoding and self-attention mechanism of the Transformer network.
+
+To better understand how the whole Transformer architecture work you can listen this episode in my podcast:
+
+- [How to fool a neural network. Understanding adversarial attacks.](https://open.spotify.com/episode/366N84iR6xlXEgzLbWhrC7?si=1551a8ba643648fa) (In english)
+- [Como enganar um carro autônomo. Explicando adversarial attacks.](https://open.spotify.com/episode/0iCbnWjv2Gx8btUZYTErjh?si=1ee95ccc088e440b) (Em portugues)
+
 
