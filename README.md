@@ -159,7 +159,7 @@ In [this colab notebook](https://colab.research.google.com/drive/1-1bFyFbHxedNw3
 
 To better understand how the whole Transformer architecture work you can listen this episode in my podcast:
 
-- [How to fool a neural network. Understanding adversarial attacks.](https://open.spotify.com/episode/366N84iR6xlXEgzLbWhrC7?si=1551a8ba643648fa) (In english)
-- [Como enganar um carro autônomo. Explicando adversarial attacks.](https://open.spotify.com/episode/0iCbnWjv2Gx8btUZYTErjh?si=1ee95ccc088e440b) (Em portugues)
+- [Attention is all you need. Understanding Transformers.](https://open.spotify.com/episode/366N84iR6xlXEgzLbWhrC7?si=1551a8ba643648fa) (In english)
+- [Attention is all you need. Entendendo Transformers.](https://open.spotify.com/episode/0iCbnWjv2Gx8btUZYTErjh?si=1ee95ccc088e440b) (Em portugues)
 
 
