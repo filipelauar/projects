@@ -159,7 +159,7 @@ In [this colab notebook](https://colab.research.google.com/drive/1-1bFyFbHxedNw3
 
 To better understand how the whole Transformer architecture work you can listen this episode in my podcast:
 
-- [Attention is all you need. Understanding Transformers.](https://open.spotify.com/episode/366N84iR6xlXEgzLbWhrC7?si=1551a8ba643648fa) (In english)
-- [Attention is all you need. Entendendo Transformers.](https://open.spotify.com/episode/0iCbnWjv2Gx8btUZYTErjh?si=1ee95ccc088e440b) (Em portugues)
+- [Attention is all you need. Understanding Transformers.](https://open.spotify.com/episode/5qdXu3Y2aq2z6EqMGoM5YW?si=cf6c8ed77194445c) (In english)
+- [Attention is all you need. Entendendo Transformers.](https://open.spotify.com/episode/0EVRJl4ib73PmzaxzY9lGU?si=d8d9c025843c4133) (Em portugues)
 
 
