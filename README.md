@@ -154,6 +154,7 @@ To better understand the idea of Reinforcement Learning, these and other algorit
 - [Reinforcement Learning.](https://open.spotify.com/episode/2w088ECqtC0CVuAe9l25A2?si=364f68c4cfc14891) (In english)
 - [Aprendizado por Reforço. Entendendo Reinforcement Learning.](https://open.spotify.com/episode/7a3L8QBSNpt83Mx3Vs2GU4?si=845f72ee82dd4445) (Em portugues)
 
+# Self-attention and positional encoding for Transformers network.
 
 In [this colab notebook](https://colab.research.google.com/drive/1-1bFyFbHxedNw3CVGHD99VxojNaXgxhX?usp=sharing) you will find an implementation of positional encoding and self-attention mechanism of the Transformer network.
 
@@ -162,4 +163,7 @@ To better understand how the whole Transformer architecture work you can listen 
 - [Attention is all you need. Understanding Transformers.](https://open.spotify.com/episode/5qdXu3Y2aq2z6EqMGoM5YW?si=cf6c8ed77194445c) (In english)
 - [Attention is all you need. Entendendo Transformers.](https://open.spotify.com/episode/0EVRJl4ib73PmzaxzY9lGU?si=d8d9c025843c4133) (Em portugues)
 
+# Unsupervised anomaly detection with SRR
+
+In [this colab notebook](https://colab.research.google.com/drive/17pL_KtV_cA7vhbce5mPlJnFB9Z-7UPli?usp=sharing) you will find an implementation of SRR for both contrastive and rotation losses and using as One Class Classifier OneClassSVM and also Gaussian Mixture + mahalanobis distance. You can apply it in 3 different datasets.
 
